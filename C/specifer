@@ -1,0 +1,16 @@
+Format specifiers or specifiers for short define the type of data to be printed on the standard output.
+
+single character
+    char letter = 'N';
+
+    specifier %c
+    printf("the letter is %c", letter);
+
+long string characters
+    char name[] = "Black Elephant";
+    printf("My name is %s", name);
+
+
+intergers unsigned
+    int age = 22;
+    printf("my age is %d", age)
