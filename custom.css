@@ -1,0 +1,7 @@
+.site-title{
+    font-family:'Rubik Iso', cursive;
+}
+.github{
+    display: flex;
+    justify-content: space-between;
+}
