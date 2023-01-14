@@ -1,4 +1,4 @@
-[vist live site](dutkulang.github.io)
+[vist live site](https://dutkulang.github.io)
 
 I created this site to help others like myself teach computer programming and software engineering in general.
 
