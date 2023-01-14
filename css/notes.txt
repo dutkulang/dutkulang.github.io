@@ -1,0 +1,1 @@
+CSS is a styling language used to make HTML pages beautiful.
