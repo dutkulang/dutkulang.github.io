@@ -1,0 +1,23 @@
+			CSS variables
+
+These allow us to define something once and just refer it by just is variable name
+
+How to insert a defined variable
+
+	var(--name, alt_value)
+
+	name -> required. Must start with two dashes.
+	alt_value -> optional. it is the fall back value incase if variable is not found.
+
+
+css variables can have a global or local scope
+
+Global variables can be accessed any where in the document. There are usually declared under the " :root " selector
+
+example of global variable
+
+:root{
+	--primary:#fffff;
+	--secondary:#00000;
+}
+
