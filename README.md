@@ -10,4 +10,4 @@ This is repo is not finished yet, so expected alot of issues or missing content.
 
 However i would like to hear feed back from you, on what to change,add or remove as well as typos. Use the issue section to communicate your feed back
 
-Thanks. `Black Elephant`
+Thanks `Black Elephant`.
