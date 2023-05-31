@@ -1,3 +1,11 @@
+body{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	height:100vh;
+	display: flex;
+	flex-direction: column;
+}
 .site-title{
     font-family:'Rubik Iso', cursive;
 }
@@ -7,4 +15,9 @@
 }
 .unstyled-link{
     text-decoration: none;
+}
+
+.footer{
+	width: 100vw;
+	margin-top: auto;
 }
