@@ -1,5 +1,7 @@
 [vist live site](https://dutkulang.github.io)
 
+[![committers.top badge](https://user-badge.committers.top/uganda/dutkulang.svg)](https://user-badge.committers.top/uganda/dutkulang)
+
 I created this site to help others like myself teach computer programming and software engineering in general.
 
 The journey for me was tough and it's still for many self taught programming.
